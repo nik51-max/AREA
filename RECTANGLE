@@ -1,0 +1,4 @@
+give L
+give W
+A = W*L
+writh A

@@ -1,0 +1,15 @@
+give X
+if x =< 1
+if X = x.x (realy number)
+write X is NOT PRIME
+if X= 2,3,5,7
+write X is prime
+else X / 2 = y
+if y is realy number
+X / 3 = Z
+if Z is realy number
+X / 5 = W
+if W is realy number
+X / 7 = Q
+if Q is realy number 
+else write X PRIMEelse write X PRIME

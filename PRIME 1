@@ -1,3 +1,5 @@
+give number 1
+divisor is 2
 If (number < 2)
 	print “its not prime!”
 	number += 1
@@ -5,9 +7,9 @@ If (number < 2)
 If (number = 2)
 	print “number is prime”
 	number += 1
+	process again
 If (number > 2)
-	run the process in next page
-remainder = number % divisor
+	remainder = number % divisor
 If (remainder = 0 )
 	It is not prime number, number +=1, divisor = 2, process again 
 Else 

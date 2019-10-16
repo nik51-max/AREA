@@ -18,6 +18,6 @@ Else
 		print “number is prime”, number +=1, divisor = 2, 	process again
 	else
 		process again
-    if number >100
+    if number >=100
     stop process
     else process again
